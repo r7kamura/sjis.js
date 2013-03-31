@@ -1,6 +1,8 @@
 # sjis.js
 Convert Shift-JIS codes from/to String in JavaScript.
 
+![](http://dl.dropbox.com/u/5978869/image/20130401_001545.png)
+
 ## Usage
 Use sjis.js or sjis.min.js.
 
